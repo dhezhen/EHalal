@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E - Halal</string>
+    <string name="bpjph">Badan Pengelola Jaminan Produk Halal </string>
+    <string name="kemenag">Kementrian Agama Republik Indonesia</string>
+    <string name="versi">Versi 1.0</string>
+    <string name="develop">Dede Husen \n Teknik Informatika 2014 \n Fakultas Ilmu Komputer \n Universitas Kuningan \n 2018</string>
+    <string name="tentang">Aplikasi E- Halah adalah aplikasi yang digunakan untuk pengecekan Kehalalan suatu produk berdasarkan no sertifikat yang dikeluarkan oleh lembaga Badan Pengelola Jaminan Produk Halal yang nanti akan mulai beroprasi pada tahun 2019. Aplikasi ini di buat oleh Dede Husen dari prodi Teknik informatika Universitas Kuningan untuk memenuhi tugas akhir kuliah dan diharapkan dapat diimplementasikan dekemudian hari semua data yang ada adalah contoh semata </string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

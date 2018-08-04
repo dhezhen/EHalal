@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "816435607839",
+    "firebase_url": "https://e-halal-a7bfd.firebaseio.com",
+    "project_id": "e-halal-a7bfd",
+    "storage_bucket": "e-halal-a7bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816435607839:android:e50fc3b69af4667f",
+        "android_client_info": {
+          "package_name": "ehalal.skripsi.com.ehalal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816435607839-ph61kuh9etabpv67pooflfpqk07qvv79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sjz3nGD8UDm8t4wEHV2TDZoB4OYX2K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
